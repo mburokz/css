@@ -5,31 +5,31 @@
 | Diedit mBurokz 31 Januari 2021 18:52
 |--------------------------------------------------*/
 
-.dtree {
+.dtrees {
 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #666;
 	white-space: nowrap;
 }
-.dtree img {
+.dtrees img {
 	border: 0px;
 	vertical-align: middle;
 }
-.dtree a {
+.dtrees a {
 	color: #333;
 	text-decoration: none;
 }
-.dtree a.node, .dtree a.nodeSel {
+.dtrees a.node, .dtrees a.nodeSel {
 	white-space: nowrap;
 	padding: 1px 2px 1px 2px;
 }
-.dtree a.node:hover, .dtree a.nodeSel:hover {
+.dtrees a.node:hover, .dtrees a.nodeSel:hover {
 	color: #333;
 	text-decoration: underline;
 }
-.dtree a.nodeSel {
+.dtrees a.nodeSel {
 	background-color: #c0d2ec;
 }
-.dtree .clip {
+.dtrees .clip {
 	overflow: hidden;
 }
